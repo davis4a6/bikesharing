@@ -26,29 +26,43 @@ Using the csv file NYC Citibike data, we changed the trip duration to a datetime
 [Starting and Ending Locations](https://public.tableau.com/views/CitiBikeChallenge_16782371195000/FinalPresentation?:language=en-US&:display_count=n&:origin=viz_share_link)
 The top starting locations and the top ending locations are similar across the board. Most active starting locations are also most active ending locations.
 
+![Alt text](images/start_stop_locations.PNG)
+
 # 1. Bike Checkout Times 
 [Checkout Times for Users](https://public.tableau.com/shared/CSB4PKSPG?:display_count=n&:origin=viz_share_link)
 The majority of Citibikes usage were 30 minutes or less per user.
+
+![Alt text](images/checkouttimes_for_users.PNG)
 
 # 2. Bike Checkout Times by Gender
 [Checkout Times by Gender](https://public.tableau.com/shared/NGH3XXTBD?:display_count=n&:origin=viz_share_link)
 It was found that males use the citibikes more than others.
 
+![Alt text](images/checkouttimes_gender.PNG)
+
 # 3. Trips (Weekday per Hour)
 [Bike Usage by Day and Time](https://public.tableau.com/shared/8TD4Y9P84?:display_count=n&:origin=viz_share_link)
 7AM-9AM are peak riding hours during the weekday in the morning and 5PM-7PM in the evening. 8AM-8PM are peak riding hours on the weekends.
+
+![Alt text](images/bikeusage_dayandtime.PNG)
 
 # 4. Trips by Gender (Weekday per Hour)
 [Bike Usage by Day, Time and Gender](https://public.tableau.com/shared/SCYTR8XYG?:display_count=n&:origin=viz_share_link)
 Males use the bikes much more than others during the peak hours of the weekday. 
 
+![Alt text](images/bikeusage_daytimeandgender.PNG)
+
 # 5. Trips by Gender and User Type (Weekday per Hour)
 [Customer and Subscriber Breakdown by Gender](https://public.tableau.com/shared/YD4G5JWTX?:display_count=n&:origin=viz_share_link)
 It was found that male subscribers utilize the bikes more than females and unknowns.
 
+![Alt text](images/customerandsubscriber.PNG)
+
 # 6. Bike Utilization vs. Bike Repairs
 [Bike Repairs vs. Bike Utilization](https://public.tableau.com/shared/7QCHQ7DJ8?:display_count=n&:origin=viz_share_link)
 It can be assumed that the bikes with higher utilization need the most repairs more often than those who are not utilized as much.
+
+![Alt text](images/bikeutilizationandrepairs.PNG)
 
 # Summary
 
@@ -60,7 +74,11 @@ It is clear that a bike-share company like NYC's Citi Bike could be successful i
 [Number of Rides per Hour with Bike ID](https://public.tableau.com/views/CitiBikeChallenge_16782371195000/NumberofRidesperHourwithBikeID?:language=en-US&:display_count=n&:origin=viz_share_link)
 For the Bike Utilization vs Bike Repairs, we said that it may be more beneficial to use a differernt visualization to find this coordination. This could be done by figuring out the number of rides per hour. Non-peak hours are 1AM-5AM; along with the number of ride with bike ID. The line shows that there are high use on 1/3 of the bikes. It can be concluded that bike repairs for 1/3 of citibikes should be done during between the time periods of 1AM-5AM.
 
+![Alt text](images/ridesperhour_bikeid.PNG)
+
 2. User Type Starting Location
 [User Type Starting Location](https://public.tableau.com/views/CitiBikeChallenge_16782371195000/UserTypeStartingLocation?:language=en-US&:display_count=n&:origin=viz_share_link)
 Subscribers are more likely to start a trip farther than the center of NYC than others.
+
+![Alt text](images/usertype_startinglocation.PNG)
 
